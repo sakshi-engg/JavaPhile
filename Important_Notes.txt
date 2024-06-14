@@ -1,0 +1,33 @@
+Just In Time Compiler :  Comppiles Code Dynamically
+
+Javac  : Convert the source code into the byte code
+
+String : Whenever we want to pass any value through the "main()" 
+method it will convert the value of any datatype into string of an array. 
+
+jdk - import java.lang.*; : automatically jdk imports this class
+
+what is "out" in System.out.println() - 
+
+
+Package is a collection of pre-defined -
+classes - Example: applet, awt, new, lang, util, net, io ;
+Methods - Example - "println(), void(), getPriority(), setPriority() "
+Exceptions - Example : DateTimeException, ThreadException, I­O­Exception, E­O­F­Exception, File­Not­Found­Exception 
+Enums - Example : DayOfWeek , Month
+Interfaces - Example : Runnable, Collection, Queue, Deque, Map, List, SortedMap
+Constants - Example : JVM_CONSTANT_Integer = 3
+Errors - Example : ServiceConfigurationError
+
+
+Food Order Management System
+Menu
+Do you want to Order? - Yes - You ordered - 
+Bill
+
+Display Bill Numbers
+Items
+Quantity
+Price
+Rate 
+Amount
